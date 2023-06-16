@@ -1,3 +1,3 @@
-# Digital locker using Ethereum Blockchain
+# Digital   document storage locker using Ethereum Blockchain
 
 
